@@ -1,6 +1,6 @@
 # Guessing Game
 
-https://user-images.githubusercontent.com/76491823/217724908-b046f6f9-45f7-46fb-ace5-727c5615d23c.mp4  
+https://user-images.githubusercontent.com/76491823/217724908-b046f6f9-45f7-46fb-ace5-727c5615d23c.mp4
 
 ## Instructions
 

@@ -1,6 +1,6 @@
 # Guessing Game
 
-<iframe src="https://player.vimeo.com/video/291009756" width="100%" height="480" frameborder="0" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/76491823/217724908-b046f6f9-45f7-46fb-ace5-727c5615d23c.mp4  
 
 ## Instructions
 
